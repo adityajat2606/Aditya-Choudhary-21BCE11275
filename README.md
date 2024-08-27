@@ -1,5 +1,5 @@
-I am Vitthal Dubey
-21BAI10142, VIT Bhopal
+I am Aditya Choudhary
+21BCE11275, VIT Bhopal
 
 
 # Multiplayer Web-Based Game
